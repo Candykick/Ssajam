@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Ssajam</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_clause">ClauseActivity</string>
+    <string name="title_activity_join">JoinActivity</string>
+    <string name="title_activity_map">MapActivity</string>
+    <string name="title_activity_room_info">RoomInfoActivity</string>
+    <string name="title_activity_adress_room">AdressRoomActivity</string>
+    <string name="title_activity_seller_main">SellerMainActivity</string>
+</resources>
